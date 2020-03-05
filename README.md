@@ -1,6 +1,6 @@
 # <h1 align="center">auto-chart 👋</h1>
 
-## [实际仓库链接](https://github.com/linwaiwai/autochart-solution)
+## [请点击实际仓库链接](https://github.com/linwaiwai/autochart-solution)
 
 ## 仓库内容
 
