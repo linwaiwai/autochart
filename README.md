@@ -16,7 +16,7 @@
 
 ### 购买链接
 
-商业版本代码已加密，购买链接 http://pay.openapplus.com/pay?money=500&type=1
+商业版本代码已加密，购买链接 http://pay.openapplus.com/pay?money=500&type=1, 付费之后请查收邮件获取加密方法（未收到请联系作者）
 
 ## 使用方法（react-auto-chart）
 
