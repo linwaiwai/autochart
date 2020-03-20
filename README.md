@@ -10,9 +10,12 @@
 
 3、前端使用react-auto-chart微服务Demo;
 
-4、前端微服务管理Graphreport_Admin_Frontend支持；即管理平台前端代码
+4、前端微服务管理Graphreport_Admin_Frontend支持；即管理平台前端代码；
 
-5、后端图表管理Graphreport_Admin_Backedn支持；即管理平台后端代码
+5、后端图表管理Graphreport_Admin_Backedn支持；即管理平台后端代码；
+
+6、自动报表AutoReport前端库；
+
 
 ### 购买链接
 
